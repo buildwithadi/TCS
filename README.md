@@ -1,4 +1,4 @@
-# Job Simulation Workshop - TATA
+# Job Simulation Workshop - TATA ⚡
 
 This repository contains the work I completed during a job simulation workshop conducted by TATA. The focus of this workshop was on understanding and applying key concepts of data cleaning and data visualization. 📈💸
 
@@ -13,4 +13,4 @@ The job simulation workshop aimed to provide hands-on experience with real-world
 - Power BI
 
 ---
-Thank you for exploring my work!
+Thank you for exploring my work! ✨✨
